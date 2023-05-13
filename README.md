@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Jessim Ahdjoudj, Master 2 student looking for a PhD in Neurosciences and IA</h1>
 <h3 align="center">Currently pursuing a Master in Cognitives Neurosciences, my goal is to combine both of my scientific interests (Neurosciences and IA) to make significant contributions to the neuroscientifical field and help better understand the working of our brains. My academic aim is to pursue research and work on some of the most challenging problems in Neurosciences with bio-inspired IA.</h3>
 
-- I’m currently working on **developping SNN** with cognitve application, such as language processing and oscillations as part of my master internship at the CerCo with Simon Thorpe and Aditya Kar using **Swift** and **Metal**. This work can be found here : https://github.com/karaditya/SNN-JAST-SpikeNet.
+- I’m currently working on **developping large scale SNN** with cognitve applications, mainly language processing and brain oscillations, as part of my master internship at the CerCo with Simon Thorpe and Aditya Kar using **Swift** and **Metal**. This work can be found here : https://github.com/karaditya/SNN-JAST-SpikeNet.
 - Fan of 3D modelling since I was little, I have previous work and personnal (modding) experience with 3D engines like **Unit**y and **Blender3D**, aswell as programming experience with largely **Python** and a little bit with **Matlab** and **C++**.
 
 <h3 align="left">To get in contact with me : jessim.ahdjoudj@univ-tlse3.fr</h3>
