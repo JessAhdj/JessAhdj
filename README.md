@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Jessim Ahdjoudj, a Junior Data Scientsit</h1>
+<h1 align="center">Hello there 👋 I'm Jessim Ahdjoudj, a Junior Data Scientist</h1>
 <h3 align="center">Currently pursuing a Master in Cognitives Neurosciences, my goal is to combine both of my scientific interests (Neurosciences and IA) to make significant contributions to the neuroscientifical field and help better understand the working of our brains. My academic aim is to pursue research and work on some of the most challenging problems in Neurosciences with bio-inspired IA.</h3>
 
 - I’m previous worked on **developping large scale SNN** with cognitve applications, mainly language processing and brain oscillations, as part of my master internship at the CerCo with Simon Thorpe and Aditya Kar using **Swift** and **Metal Shading Language**. This work can be found here : https://github.com/karaditya/SNN-JAST-SpikeNet and in a poster comming soon.
