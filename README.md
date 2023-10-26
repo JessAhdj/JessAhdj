@@ -1,15 +1,15 @@
 <h1 align="center">Hello there 👋 I'm Jessim Ahdjoudj, a Junior Data Scientist.</h1>
 <h2 align="center">Welcome to my profile 😀</h2>
-<h3 align="center">Cognitive, Behavioral and Computational Neurosciences Master graduate, I'm a passionate and high-performing Junior Data Scientist excited about opportunities and challenges that allow me to utilize my proficency with Python, R, Excel/Sheet Tableau, PowerBI and SQL and leverage my experience in Data Science.</h3>
+<h3 align="center">Cognitive, Behavioral and Computational Neurosciences Master graduate, I'm a passionate and high-performing Junior Data Scientist excited about new opportunities and new challenges that will allow me to utilize my proficency with Python, R, Excel/Sheet, Tableau, PowerBI and SQL to leverage my experience in Data Science.</h3>
 
 # Content
 
-WIP
+On my profil, you'll find multiple repos of my work as Computal Neurosciences trainee and my Data Science Portfolio containing the differents data projets I did to sharpen my data skills.
 
 # About me
   
-- My current work as an aspiring Data Scientist is focusing on better understanding and getting the most out of databases to make data-driven decisions and answer buisness questions. To do this, I builded a strong technical stack/fondation based on multiple Data Science and Artificial Intelligence experiences as Computational Neuroscientist in public research at the CNRS (Centre National de la Recherche Scientifique). I focus on better understanding and getting the most out of databases to make data-driven decisions and answer buisness questions. 
-- I’m previously worked on **developping a large scale SNN** with cognitve applications, mainly language processing and brain oscillations, as part of my master internship at the CerCo with Simon Thorpe and Aditya Kar using **Swift** and **Metal Shading Language**. This work can be found here : https://github.com/karaditya/SNN-JAST-SpikeNet and in a poster comming soon at the NNPC Conference 2023.
+- My current work as an aspiring Data Scientist is focusing on **better understanding and getting the most out of databases to make data-driven decisions and answer buisness questions**. To do this, I builded a strong technical stack/fondation based on multiple Data Science and Artificial Intelligence experiences as Computational Neuroscientist in public research at the CNRS (Centre National de la Recherche Scientifique). To do this, I mainly use Python, R, Excel/Sheet, Tableau, PowerBI and SQL, but I'm open to try out other tools if a project requires it.
+- I previously worked on **developping a large scale SNN** with cognitve applications, mainly language processing and brain oscillations, as part of my master internship at the CerCo with Simon Thorpe and Aditya Kar using **Swift** and **Metal Shading Language**. This work, still in progess, can be found here : https://github.com/karaditya/SNN-JAST-SpikeNet and in a poster comming soon at the NNPC Conference 2023.
 - Fan of 3D modelling since I was little, I have previous work and personnal (modding) experience with 3D engines like **Unity** and **Blender3D**, aswell as programming experience with largely **Python** and **R** and a little bit with **Matlab** and **C++**.
 
 <h3 align="left">To get in contact with me : jessim.ahdjoudj@gmail.com</h3>
