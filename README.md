@@ -4,7 +4,7 @@
 
 # Content
 
-On my profil, you'll find multiple repos of my work as Computal Neurosciences trainee and my Data Science Portfolio containing the differents data projets I did to sharpen my data skills.
+On my profil, you'll find multiple repos of my work as Computal Neurosciences trainee and my Data Science Portfolio showcasing my skills and expertise in the field through differents data projets I did to sharpen my data skills.
 
 # About me
   
