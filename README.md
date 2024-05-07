@@ -1,6 +1,6 @@
-<h1 align="center">Hello there 👋 I'm Jessim Ahdjoudj, a Junior Data Scientist.</h1>
+<h1 align="center">Hello there 👋 I'm Jessim Ahdjoudj, a Data Scientist.</h1>
 <h2 align="center">Welcome to my profile 😀</h2>
-<h3 align="center">Computational, Cognitive and Behavioral and Neurosciences Master graduate, I'm a passionate and high-performing Junior Data Scientist excited about new opportunities and new challenges that will allow me to utilize my proficency with Python, R, Excel/Sheet, Tableau, PowerBI and SQL to leverage my experience in Data Science.</h3>
+<h3 align="center">Computational, Cognitive and Behavioral and Neurosciences Master graduate, I'm a passionate and high-performing Data Scientist excited about new opportunities and new challenges that will allow me to utilize my proficency with Python, R, Excel/Sheet, Tableau, PowerBI and SQL to leverage my experience in Data Science.</h3>
 
 # Content
 
